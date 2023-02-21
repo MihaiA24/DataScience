@@ -1,0 +1,7 @@
+graphviz
+jupyterlab
+kaggle
+pandas
+polars==0.14.24
+requests
+seaborn
